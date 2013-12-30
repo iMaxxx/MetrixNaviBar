@@ -1,11 +1,15 @@
 #Python
 *.pyc
 OpenStore-Info/
-
+metrixCore.py
+.settings/
 
 #Photoshop
 *.psd
 
+#OtherStuff
+*(In Konflikt stehende Kopie von*
+installedPackages.cfg
 
 # OS generated files #
 ######################
